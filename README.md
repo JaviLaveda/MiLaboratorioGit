@@ -1,2 +1,3 @@
 # Empezamos creando una carpeta desde el terminal y posteriormente inicializamos GIT con git init
 # Hemos conectado el repositorio local con github y realizado el primer push
+# Después de añadir el archivo index.html y haberlo subido, hemos creado una rama nueva para ir actualizando este archivo...
